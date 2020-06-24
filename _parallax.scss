@@ -1,0 +1,46 @@
+//Parallax Effect
+
+#parallax .block {
+  padding: 50px;
+  margin: 0 220px;
+  text-align: center;
+}
+#parallax .block p {
+  padding-top: 30px;
+}
+
+#parallax .parallax-one {
+  padding-top: 360px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(../img/happy1.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+#parallax .parallax-two {
+  padding-top: 360px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(../img/happy3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+#parallax .parallax-three {
+  padding-top: 360px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(../img/happy3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
